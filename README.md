@@ -8,6 +8,8 @@ A simple proof-of-concept for a fruit-slicing game built in Unity for VR. This i
 * Collision detection for slicing objects with the sword.
 * Collision detection for missed objects hitting the floor.
 * A clean repository setup using a `.gitignore` for Unity.
+  
+---
 
 To run this project, follow these steps:
 
