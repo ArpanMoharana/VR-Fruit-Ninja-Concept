@@ -1,4 +1,4 @@
-# VR Fruit Ninja Concept
+# VR Fruit Ninja Concept{
 
 A proof-of-concept for a fruit-slicing game built from scratch in Unity for VR. This project serves as a foundational example of core VR interaction mechanics, physics-based object spawning, and collision detection, inspired by the classic Fruit Ninja.
 
